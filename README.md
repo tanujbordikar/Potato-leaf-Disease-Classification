@@ -9,3 +9,6 @@
 <li>For Backend purposes : TF serving, FASTAPI and for fetching and comparing of models Docker tfserving container is used.</li>
 <li>Frontend : REACT.</li>
 </ul>
+### Project Images:
+https://ibb.co/5vcpWBx
+https://ibb.co/fxTQ2Bc
