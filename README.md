@@ -1,7 +1,8 @@
 # Potato-leaf-Disease-Classification
 <br>
+
+Classification ML model for detecting late and early blight disease in potatoes leaves:
 <ul>
-<li>Classification ML model for detecting late and early blight disease in potatoes leaves:</li>
 <li>For model building : Tensorflow, CNN, Data Augmentation, tf-dataset.</li>
 <li>Matplotlib for getting brief Visualization of Data.</li>
 <li>The Dataset is partitioned into 4/5(80%) == training, 1/5(20%) == 1/10(10%)-validation & 1/10(10%)-testing!</li>
