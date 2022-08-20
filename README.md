@@ -5,6 +5,7 @@
 <li>For model building : Tensorflow, CNN, Data Augmentation, tf-dataset.</li>
 <li>Matplotlib for getting brief Visualization of Data.</li>
 <li>The Dataset is partitioned into 4/5(80%) == training, 1/5(20%) == 1/10(10%)-validation & 1/10(10%)-testing!</li>
+<li>Dataset Link: https://www.kaggle.com/datasets/arjuntejaswi/plant-village</li>
 <li>And for Data Augmentation : keras layers preprocessing is used.</li>
 <li>For Backend purposes : TF serving, FASTAPI and for fetching and comparing of models Docker tfserving container is used.</li>
 <li>Frontend : REACT.</li>
