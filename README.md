@@ -10,5 +10,4 @@
 <li>Frontend : REACT.</li>
 </ul>
 <h3>Project Images:</h3>
-![image1](https://ibb.co/5vcpWBx)
-![image1](https://ibb.co/fxTQ2Bc)
+![potato-disease - Google Chrome 20-08-2022 16_00_36](https://user-images.githubusercontent.com/91179998/185743212-2115e40a-bca2-48fe-ab53-40ee19edc464.png)
